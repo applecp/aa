@@ -74,10 +74,19 @@ CETV1,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u
 CETV4,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3$IPV6
 
 河南频道,#genre#
-河南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031119/1.m3u8$IPV6
-河南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000027/index.m3u8$IPV6
 
-河南卫视,http://123.7.110.43:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0$周口联通
+河南卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000027/index.m3u8$IPV6
+
+河南卫视,http://222.142.65.165:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
+河南都市,http://222.142.65.165:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
+河南民生,http://222.142.65.165:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
+河南法治,http://222.142.65.165:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
+河南电视剧,http://222.142.65.165:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
+河南国际,http://222.142.65.165:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
+河南新闻,http://222.142.65.165:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
+河南乡村,http://222.142.65.165:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
+梨园,http://222.142.65.165:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
+
 河南都市,http://123.7.110.43:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0$周口联通
 河南民生,http://123.7.110.43:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0$周口联通
 河南法治,http://123.7.110.43:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0$周口联通
@@ -85,26 +94,6 @@ CETV4,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u
 河南新闻,http://123.7.110.43:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0$周口联通
 河南公共,http://123.7.110.43:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$周口联通
 梨园,http://123.7.110.43:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$周口联通
-
-河南卫视,http://221.13.235.90:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$安阳联通
-河南都市,http://221.13.235.90:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$安阳联通
-河南民生,http://221.13.235.90:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$安阳联通
-河南法治,http://221.13.235.90:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$安阳联通
-河南电视剧,http://221.13.235.90:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$安阳联通
-河南新闻,http://221.13.235.90:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$安阳联通
-河南公共,http://221.13.235.90:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$安阳联通
-河南乡村,http://221.13.235.90:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$安阳联通
-梨园,http://221.13.235.90:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$安阳联通
-
-河南卫视,http://182.122.121.151:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
-河南都市,http://182.122.121.151:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
-河南民生,http://182.122.121.151:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
-河南法治,http://182.122.121.151:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
-河南电视剧,http://182.122.121.151:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
-河南国际,http://182.122.121.151:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
-河南新闻,http://182.122.121.151:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
-河南乡村,http://182.122.121.151:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
-梨园,http://182.122.121.151:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$平顶山联通
 
 河南卫视,http://171.14.89.69:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$南阳电信
 河南都市,http://171.14.89.69:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$南阳电信
